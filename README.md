@@ -1,5 +1,3 @@
-dont look at my code for assignments, I can tell when you open my repositories.
-
 - Greetings fellow traveler, I’m Madeline Prickette.
 - I’m interested in video games, primarily Ubisoft's Rainbow Six Siege, Capcom's Resident Evil series, and Mojang's Minecraft. In addition, I like Rust and am an avid Super Smash Bros. Ultimate player.
 - I’m currently a full stack web developer at Prime Digital Academy looking for employment within the east coast, or anywhere, overseas too.
